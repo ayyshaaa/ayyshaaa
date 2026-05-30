@@ -59,7 +59,7 @@ I transitioned into software engineering with a keen interest in **automation, d
 ### 💬 IRC Server — `C++`
 > A functional IRC server handling concurrent connections over TCP/IP, implementing the IRC protocol with full client-server architecture and state synchronization.
 
-### 🐳 Docker Compose Infrastructure — `Bash · Docker · Docker Compose`
+### 🐳 Inception, a Docker Compose Infrastructure — `Bash · Docker · Docker Compose`
 > Full containerized infrastructure with NGINX reverse proxy, SSL/TLS, WordPress, PHP-FPM, and MariaDB — orchestrated via Docker Compose with persistent volumes.
 
 ### ♟️ ChessWar, a chess Web App — `TypeScript · SQL · Drizzle ORM · PostgreSQL · Redis · NestJS · React`
