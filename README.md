@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Aicha 👋</h1>
+<h1 align="center">Hi everyone, I'm Aicha 👋</h1>
 
 <p align="center">
   <strong>Junior Software Developer · Data Engineer · DevOps</strong><br/>
-  École 42 Paris · MSc Biomedical Science · Based in Paris, France 🇫🇷
+  École 42 Paris · MSc Biomedical Science · Based in Paris, France
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 I'm a junior developer enrolled in **École 42 Paris**, with an unusual background: I hold a **Master's degree in Cellular & Molecular Biology** and have conducted research at the **Francis Crick Institute** (London) and **Institut Pasteur** (Paris) — including a **peer-reviewed publication** in *ACS Central Science* (17 citations to date).
 
-I transitioned into software engineering with a keen focus on **automation, data pipelines, AI and biotechnologies**. I bring a scientist's methodical and problem-solving mindset to every project I take part in. esting and iterating are concepts I have always implemented accross my fields of studies.
+I transitioned into software engineering with a keen interest in **automation, data pipelines, AI and biotechnologies**. I bring a scientist's methodical and problem-solving mindset to every project I take part in. Testing and iterating are tasks I have always implemented accross my fields of studies.
 
 🔍 Currently seeking a **2-year work-study contract** or a **6-month internship** — available within 1 month.
 
@@ -72,7 +72,7 @@ I transitioned into software engineering with a keen focus on **automation, data
 
 ## 🔬 Before Code — A Scientific Background
 
-- 🧬 **MSc Biomedical Science* — CY Cergy Paris Université
+- 🧬 *MSc Biomedical Science* — CY Cergy Paris Université
 - 🔬 Research internships at **Institut Pasteur** (Paris) and **Francis Crick Institute** (London)
 - 📄 **First author** — *Stierlen et al., ACS Central Science, 2023* · 17 citations · Secured PhD funding
 
@@ -80,7 +80,7 @@ I transitioned into software engineering with a keen focus on **automation, data
 
 ## 🌍 Languages
 
-🇫🇷 French — Native &nbsp;|&nbsp; 🇬🇧 English — Fluent (TOEIC 990/990)
+![French](https://img.shields.io/badge/French-Native-blue?style=flat) ![English](https://img.shields.io/badge/English-Fluent%20·%20TOEIC%20990%2F990-success?style=flat)
 
 ---
 
