@@ -80,7 +80,7 @@ I transitioned into software engineering with a keen interest in **automation, d
 
 ## 🌍 Languages
 
-![French](https://img.shields.io/badge/French-Native-blue?style=flat) ![English](https://img.shields.io/badge/English-Fluent%20·%20TOEIC%20990%2F990-success?style=flat)
+<img src="https://flagcdn.com/fr.svg" width="20"/> French — Native &nbsp;|&nbsp; <img src="https://flagcdn.com/gb.svg" width="20"/> English — Fluent (TOEIC 990/990)
 
 ---
 
