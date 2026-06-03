@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone, I'm Aicha 👋</h1>
+<h1 align="center">🌸 Welcome to Aicha Github profile 🌸</h1>
 
 <p align="center">
   <strong>Junior Software Developer · Data Engineer · DevOps</strong><br/>
@@ -14,9 +14,11 @@
 
 ## 👩‍💻 About Me
 
-I'm a junior developer enrolled in **École 42 Paris**, with an unusual background: I hold a **Master's degree in Cellular & Molecular Biology** and have conducted research at the **Francis Crick Institute** (London) and **Institut Pasteur** (Paris) — including a **peer-reviewed publication** in *ACS Central Science* (17 citations to date).
+I'm a junior developer enrolled in **École 42 Paris**, with an scientific background: I hold a **Master's degree in Cellular & Molecular Biology**, have conducted research at the **Francis Crick Institute** (London) and **Institut Pasteur** (Paris), and got a **peer-reviewed publication** in *ACS Central Science*.
 
-I transitioned into software engineering with a keen interest in **automation, data pipelines, AI and biotechnologies**. I bring a scientist's methodical and problem-solving mindset to every project I take part in. Testing and iterating are tasks I have always implemented accross my fields of studies.
+I transitioned into software engineering because I loved the idea of learning, experimenting and iterating at a faster pace, (almost) for free, anywhere. I have been surrounded by computers since young, always loved video games, and been chronically online. I made the right choice, right ?
+
+As of now I have a keen interest in **automation, data pipelines, AI and biotechnologies**.
 
 🔍 Currently seeking a **2-year work-study contract** or a **6-month internship** — available within 1 month.
 
@@ -63,18 +65,10 @@ I transitioned into software engineering with a keen interest in **automation, d
 > Full containerized infrastructure with NGINX reverse proxy, SSL/TLS, WordPress, PHP-FPM, and MariaDB — orchestrated via Docker Compose with persistent volumes.
 
 ### ♟️ ChessWar, a chess Web App — `TypeScript · SQL · Drizzle ORM · PostgreSQL · Redis · NestJS · React`
-> Full-stack containerized chess application with a normalized relational database, cache system, REST API, OAuth, 2FA and JWT authentication, local and real-time gameplay via WebSockets, as well ad comprehensive data quality controls.
+> Full-stack containerized chess application with a normalized relational database, cache system, REST API, OAuth, 2FA and JWT authentication, local and real-time gameplay via WebSockets, as well as comprehensive data quality controls.
 
 ### ☁️ Cloud1, a Cloud Deployment Pipeline — `Bash · Docker Compose · GCP · Ansible · GitHub Actions`
-> End-to-end IaC pipeline: Docker containerization, Docker Compose orchestration, automated cloud deployment with Ansible and GCP Compute engine, CI/CD via GitHub Actions, and monitoring with Prometheus + Grafana.
-
----
-
-## 🔬 Before Code — A Scientific Background
-
-- 🧬 *MSc Biomedical Science* — CY Cergy Paris Université
-- 🔬 Research internships at **Institut Pasteur** (Paris) and **Francis Crick Institute** (London)
-- 📄 **First author** — *Stierlen et al., ACS Central Science, 2023* · 17 citations · Secured PhD funding
+> End-to-end IaC pipeline: Docker containerization, Docker Compose orchestration, automated cloud deployment of WordPress page with Ansible and GCP Compute engine, MySQL database instanciation with GCP Cloud SQL, CI/CD via GitHub Actions, and monitoring with Prometheus + Grafana.
 
 ---
 
