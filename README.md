@@ -16,9 +16,9 @@
 
 I'm a junior developer enrolled in **École 42 Paris**, with an scientific background: I hold a **Master's degree in Cellular & Molecular Biology**, have conducted research at the **Francis Crick Institute** (London) and **Institut Pasteur** (Paris), and got a **peer-reviewed publication** in *ACS Central Science*.
 
-I transitioned into software engineering because I loved the idea of learning, experimenting and iterating at a faster pace, (almost) for free, anywhere. I have been surrounded by computers since young, always loved video games, and been chronically online. I made the right choice, right ?
+I transitioned into software engineering because I loved the idea of building, experimenting and iterating at a faster pace, (almost) for free, anywhere. I'm not scared of tackling new challenges either. Also, I have been surrounded by computers since young, always loved video games, and been chronically online lol.
 
-As of now I have a keen interest in **automation, data pipelines, AI and biotechnologies**.
+As of now I have a keen interest in **automation, data pipelines and analysis, AI and biotechnologies**.
 
 🔍 Currently seeking a **2-year work-study contract** or a **6-month internship** — available within 1 month.
 
